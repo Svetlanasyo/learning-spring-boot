@@ -1,4 +1,4 @@
-package learning.projects.sfgpetclinic.model;
+package learning.project.sfgpetclinic.model;
 
 public class Person {
 
